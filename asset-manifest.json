@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Reactsite/static/css/main.bfe92bf9.css",
+    "main.js": "/Reactsite/static/js/main.d9bb91ec.js",
+    "static/media/pic.jpg": "/Reactsite/static/media/pic.4c5d39b093e1f9d2d547.jpg",
+    "index.html": "/Reactsite/index.html",
+    "main.bfe92bf9.css.map": "/Reactsite/static/css/main.bfe92bf9.css.map",
+    "main.d9bb91ec.js.map": "/Reactsite/static/js/main.d9bb91ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfe92bf9.css",
+    "static/js/main.d9bb91ec.js"
+  ]
+}
