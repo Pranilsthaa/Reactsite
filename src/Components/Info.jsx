@@ -1,5 +1,5 @@
 import React from 'react'
-import my_img from '../image/pic.jpg'
+import my_img from '../image/del.jpg'
 import { FaEnvelope } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
 
